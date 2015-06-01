@@ -1,6 +1,7 @@
 
+This is demo site. 
 CONTENTS OF THIS FILE
----------------------
+-----------------------
 
  * About Drupal
  * Configuration and features
